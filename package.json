@@ -1,0 +1,25 @@
+{
+  "name": "saurabh-cli",
+  "version": "2.0.1",
+  "description": "CLI Portfolio",
+  "main": "./bin/cli.js",
+  "type": "module",
+  "bin": {
+    "saurabh-cli": "./bin/cli.js"
+  },
+  "scripts": {
+    "pub": "npm version major && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saurabh Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.8.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.5.2",
+    "nanospinner": "^1.2.2"
+  }
+}
