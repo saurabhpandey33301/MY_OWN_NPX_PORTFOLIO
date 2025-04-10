@@ -44,7 +44,7 @@ async function welcome() {
       borderStyle: "double",
       title: "My-Portfolio",
       titleAlignment: "center",
-      borderColor: "green"
+      borderColor: "blue"
     }
   );
 
