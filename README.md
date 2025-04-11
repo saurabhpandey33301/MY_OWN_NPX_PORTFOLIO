@@ -40,6 +40,6 @@ Hey there! I'm [**Saurabh Pandey**](https://saurabh-portfolio-zeta.vercel.app/) 
 
 <div align="center">
 
-![My Npx Portfolio Card](card-npm.png)
+![My Npx Portfolio Card](cli.png)
 
 </div>
