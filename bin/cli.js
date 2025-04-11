@@ -42,9 +42,9 @@ async function welcome() {
       padding: 1,
       margin: 2,
       borderStyle: "double",
-      title: "My-Portfolio",
+      title: "My-CLI-Portfolio",
       titleAlignment: "center",
-      borderColor: "blue"
+      borderColor: "green"
     }
   );
 
